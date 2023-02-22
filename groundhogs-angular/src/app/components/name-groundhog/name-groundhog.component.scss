@@ -1,0 +1,17 @@
+img {
+  max-width: 200px;
+  transform: rotateY(180deg);
+}
+.form {
+  display: flex;
+  padding: 2rem;
+  padding-bottom: 3rem;
+}
+.label {
+  padding-right: 2rem;
+}
+.name-groundhog-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

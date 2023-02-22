@@ -1,0 +1,9 @@
+<div class="wrapper">
+  <div class="main">
+    <div class="list">
+      <div *ngFor="let g of groundhogs">
+        <div class="list-entry" (click)="onClick(g.name, $event)">{{ g.id }}. {{g.name}}</div>
+      </div>
+    </div>
+  </div>
+</div>

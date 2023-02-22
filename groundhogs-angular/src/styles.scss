@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: "PeopleFont";
+  src: url("../src/assets/Poppins-Light.ttf");
+}
+@font-face {
+  font-family: "PeopleFontBold";
+  src: url("../src/assets/Poppins-Medium.ttf");
+}
+* {
+  font-family: "PeopleFont";
+}
+body {
+  margin: 0;
+  background-color: #3c6255;
+  color: #eae7b1;
+}

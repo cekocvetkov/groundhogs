@@ -1,4 +1,4 @@
-## A simple angular project that can be used for introduction to angular.
+## A simple angular project that can be used for video tutorial-style introduction to angular.
 
 To start the application:
 ###
